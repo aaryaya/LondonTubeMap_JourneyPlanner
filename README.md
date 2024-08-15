@@ -1,7 +1,4 @@
 # LondonTubeMap_JourneyPlanner
-Here's a sample `README.md` file for your GitHub repository that explains the London Tube Map Journey Planner project. The README provides an overview of the project, instructions for setting it up, and how to use it.
-
----
 
 This project is a Python-based London Tube Map Journey Planner application. It allows users to find the shortest path between two tube stations, explore line information, and display neighboring stations. The application also provides a simple graphical user interface (GUI) built using Tkinter.
 
@@ -100,6 +97,7 @@ Feel free to fork this repository and contribute by submitting pull requests. Co
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
+## Author
 
-This `README.md` provides all the essential information that someone needs to understand, set up, and use the application. Make sure to adjust any specific paths or details based on your actual project setup.
+**Aarya Shirbhate**
+
