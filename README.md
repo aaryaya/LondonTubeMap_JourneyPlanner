@@ -95,7 +95,7 @@ Feel free to fork this repository and contribute by submitting pull requests. Co
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is open to all and is released under a permissive license. You are free to use, modify, and distribute the work without copyright restrictions.
 
 ## Author
 
