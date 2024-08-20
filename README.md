@@ -1,5 +1,7 @@
 # LondonTubeMap_JourneyPlanner
 
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+
 This project is a Python-based London Tube Map Journey Planner application. It allows users to find the shortest path between two tube stations, explore line information, and display neighboring stations. The application also provides a simple graphical user interface (GUI) built using Tkinter.
 
 ## Features
